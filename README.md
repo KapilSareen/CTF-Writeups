@@ -1,5 +1,3 @@
-# CTF Writeups
-
 ###  This repository contains the detailed CTF writeups of challenges solved by me in recent CTFs  in association with team @InfosecIITR 
 
 ## Events
