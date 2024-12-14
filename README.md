@@ -6,6 +6,9 @@
 
 ### -  2024
 
+- ### HTB University CTF
+   - #### [web/ breaking-bank](./2024/HTB%20Uni%20CTF/Breaking%20Bank/)
+
 - ### Imaginary CTF
   - #### [web/ journal](./2024/ImaginaryCTF%20/journal)
 
