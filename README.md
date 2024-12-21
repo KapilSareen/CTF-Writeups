@@ -1,10 +1,4 @@
-## CTF Writeups
-
-####  This repository contains the detailed CTF writeups of challenges solved by me in recent CTFs  in association with team @InfosecIITR 
-
-## Events
-
-### -  2024
+##  2024
 
 - ### HTB University CTF
    - #### [web/ breaking-bank](./2024/HTB%20Uni%20CTF/Breaking%20Bank/)
